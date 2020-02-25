@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>geo_bronze.png</file>
+        <file>geo_gold.png</file>
+        <file>geo_diamond.png</file>
+        <file>Background.png</file>
+        <file>Title.jpeg</file>
+        <file>help.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>bgm.mp3</file>
+        <file>cancle.mp3</file>
+        <file>combine.mp3</file>
+    </qresource>
+    <qresource prefix="/text">
+        <file>test.txt</file>
+    </qresource>
+</RCC>
